@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "CarsOnSale1"
+  "defaultProject": "CarsOnSale1",
+  "cli": {
+    "analytics": "7d5cbbfb-407b-4ade-874b-d994ce8967f4"
+  }
 }
